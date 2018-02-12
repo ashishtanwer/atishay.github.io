@@ -1324,24 +1324,24 @@ ul li > ul > li.active > a {
   margin-top: 30px;
   color: #000;
 }
-#awards {
+#other-services {
   background: #fff;
 }
-#awards .nav-tabs {
+#other-services .nav-tabs {
   border-bottom: none;
   padding-top: 70px;
   float: left;
 }
-#awards .nav-tabs li {
+#other-services .nav-tabs li {
   float: none;
 }
-#awards .nav-tabs li a {
+#other-services .nav-tabs li a {
   border: none;
   background: transparent;
   margin: 0;
   padding: 0;
 }
-#awards .nav-tabs li a i {
+#other-services .nav-tabs li a i {
   background-color: #81868e;
   background-repeat: no-repeat !important;
   background-size: 40% !important;
@@ -1360,34 +1360,34 @@ ul li > ul > li.active > a {
   -moz-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
-#awards .nav-tabs li a:hover i,
-#awards .nav-tabs li a:focus,
-#awards .nav-tabs li a.active i {
+#other-services .nav-tabs li a:hover i,
+#other-services .nav-tabs li a:focus,
+#other-services .nav-tabs li a.active i {
 }
-#awards .tab-content {
+#other-services .tab-content {
   margin: 10px 0px 0px 80px;
 }
-#awards .service-content h3 {
+#other-services .service-content h3 {
   font-size: 20px;
   margin-top: 25px;
   margin-bottom: 25px;
 /*  text-transform: uppercase;*/
 }
-#awards .service-content p.lead {
+#other-services .service-content p.lead {
   font-size: 16px;
   line-height: 28px;
   margin-bottom: 25px;
 }
-#awards .service-content p {
+#other-services .service-content p {
   font-size: 14px;
 }
-#awards .other-service-item {
+#other-services .other-service-item {
   padding-bottom: 30px;
 }
-#awards .other-service-item .icon {
+#other-services .other-service-item .icon {
   float: left;
 }
-#awards .other-service-item .icon .icon-medium {
+#other-services .other-service-item .icon .icon-medium {
   background: #E74C3C;
   font-size: 24px;
   text-align: center;
@@ -1403,18 +1403,18 @@ ul li > ul > li.active > a {
   -moz-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
-#awards .other-service-item .service-content {
+#other-services .other-service-item .service-content {
   padding-left: 100px;
 }
-#awards .other-service-item .service-content h3 {
+#other-services .other-service-item .service-content h3 {
 
   font-size: 24px;
   clear: inherit;
 }
-#awards .other-service-item .service-content p {
+#other-services .other-service-item .service-content p {
   padding: 0px 36px 0px 0px;
 }
-#awards .other-service-item:hover .icon-medium {
+#other-services .other-service-item:hover .icon-medium {
   -webkit-transform: rotateY(360deg);
   -moz-transform: rotateY(360deg);
   -o-transform: rotateY(360deg);
@@ -1425,7 +1425,7 @@ ul li > ul > li.active > a {
   transition: all 0.6s linear;
   background: #666;
 }
-#awards img {
+#other-services img {
   max-width: 100%;
   padding: 22px;
 }
@@ -3421,12 +3421,12 @@ ul.contact-info2 i.fa {
     font-size: 16px;
     line-height: 24px;
   }
-  #awards .service-content p.lead {
+  #other-services .service-content p.lead {
     font-size: 12px;
     line-height: 28px;
     margin-bottom: 7px;
   }
-  #awards .service-content p {
+  #other-services .service-content p {
     font-size: 12px;
   }
     .about2-intro-image {

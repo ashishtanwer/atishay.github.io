@@ -75,7 +75,7 @@ ul.colors li a.active:after {
     font-size: 10px;
     right: 12px;
     position: absolute;
-    top: 9px;
+    top: 5px;
 }
 ul.colors li a.color1.active:after, ul.colors li a.color8.active:after{
     color:#FFFFFF;

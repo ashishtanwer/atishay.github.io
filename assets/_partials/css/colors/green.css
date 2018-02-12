@@ -68,13 +68,13 @@ a:hover{
 #portfolio .portfolio-items figure figcaption:hover{
 	background: rgba(153, 204, 51, 0.9);
 }
-#awards .other-service-item .icon .icon-medium{
+#other-services .other-service-item .icon .icon-medium{
 	background: #9C3;
 }
-#awards .other-service-item:hover .icon-medium{
+#other-services .other-service-item:hover .icon-medium{
 	background: #666;
 }
-#awards .other-service-item .service-content h3{
+#other-services .other-service-item .service-content h3{
 	color: #9C3;
 }
 #progress .icon-effect{
@@ -385,7 +385,7 @@ h2.widget-title {
 .split .details-list h3 {
   color: #9C3;
 }
-#awards .nav-tabs li a:hover i, #awards .nav-tabs li a:focus, #awards .nav-tabs li a.active i {
+#other-services .nav-tabs li a:hover i, #other-services .nav-tabs li a:focus, #other-services .nav-tabs li a.active i {
   background: #9C3 none repeat scroll 0 0;
 }
 .btn-common.active {

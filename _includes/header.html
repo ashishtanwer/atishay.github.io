@@ -14,14 +14,14 @@
       <!-- Navbar Starts -->
       <nav class="navbar navbar-light" data-spy="affix" data-offset-top="50">
         <div class="container">
-          <button class='navbar-toggler hidden-md-up pull-xs-right' data-target='#main-menu' data-toggle='collapse' type='button'>
+          <button class='navbar-toggler d-md-none d-block float-xs-right' data-target='#main-menu' data-toggle='collapse' type='button'>
 
           </button>
           <!-- Brand -->
           <a class="navbar-brand" href="{{ "/" | relative_url}}">
             <img src="{{ "/assets/img/logo.svg" | relative_url}}?{{site.time | date: '%s%N'}}" width="130px" height="47px" alt="Atishay.me Logo">
           </a>
-          <div class="collapse navbar-toggleable-sm pull-xs-left pull-md-right" id="main-menu">
+          <div class="navbar-toggleable-sm float-xs-left float-md-right" id="main-menu">
             <!-- Navbar Starts -->
             <ul class="nav nav-inline">
               <li class="nav-item">
@@ -37,7 +37,7 @@
                   <a class="dropdown-item same-page" href="#internships">Internships</a>
                   <a class="dropdown-item same-page" href="#education">Education</a>
                   <a class="dropdown-item same-page" href="#patents">Patents &amp; Publications</a>
-                  <a class="dropdown-item same-page" href="#awards">Projects &amp; Awards</a>
+                  <a class="dropdown-item same-page" href="#other-services">Projects &amp; Awards</a>
                   <a class="dropdown-item same-page" href="#proficiency">Proficiency</a>
                 </div>
               {% else %}
