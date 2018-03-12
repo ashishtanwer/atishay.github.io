@@ -633,6 +633,7 @@ i:hover {
   background: img-url($skin);
   margin-top: -35px;
   text-shadow: none;
+  position: absolute;
 }
 #carousel-area .left.carousel-control {
   left: 5%;
